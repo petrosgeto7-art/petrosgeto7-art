@@ -44,7 +44,7 @@
 ```yaml
 name: Petros Geto
 location: Ethiopia
-education: CS Student @ Debre Birhan University
+education: Software Engineering Student @ Debre Birhan University
 focus: Full-Stack Development, Systems Programming, Cloud Services
 current_goal: Building production-grade software & contributing to open source
 fun_fact: I build things that solve real problems — from campus services to fintech
