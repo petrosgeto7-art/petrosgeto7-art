@@ -51,7 +51,7 @@ fun_fact: I build things that solve real problems — from campus services to fi
 ```
 
 - 🔭 &nbsp;Currently building **full-stack web & mobile applications**
-- 🏫 &nbsp;CS student at **Debre Birhan University** — learning by building
+- 🏫 &nbsp; Software Engineering student at **Debre Birhan University** — learning by building
 - 🛠️ &nbsp;Working with **TypeScript, Java, C++, JavaScript** across the stack
 - 🧠 &nbsp;Exploring **AI/ML integrations** and **cloud-native architectures**
 - 💬 &nbsp;Ask me about **React, Node.js, Spring Boot, or system design**
