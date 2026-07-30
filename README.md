@@ -305,11 +305,11 @@ A creative project showcasing modern development practices with clean architectu
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.petrosgeto7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/petrosgeto7art" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
