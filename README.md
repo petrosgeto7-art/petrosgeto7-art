@@ -7,14 +7,14 @@
 
 <!-- ═══════════════════════════════ HEADER WAVE ═══════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:06b6d4&height=220&section=header&text=Petros%20Geto&fontColor=e2e8f0&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20CS%20Student&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:06b6d4&height=220&section=header&text=Petros%20Geto&fontColor=e2e8f0&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&width=550&lines=Hey+%F0%9F%91%8B+I'm+Petros+Geto;Building+Clean+%26+Scalable+Software;Full-Stack+Dev+%7C+CS+Student+%7C+Builder;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&width=550&lines=Hey+%F0%9F%91%8B+I'm+Petros+Geto;Building+Clean+%26+Scalable+Software;Full-Stack+Dev+%7C+Software+Engineering+Student+%7C+Builder;Always+shipping%2C+always+learning" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -147,14 +147,6 @@ fun_fact: I build things that solve real problems — from campus services to fi
 <!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 
 ## &nbsp;📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=petrosgeto7-art&show_icons=true&hide_border=true&bg_color=00000000&title_color=06b6d4&icon_color=22d3ee&text_color=cbd5e1&ring_color=0891b2" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrosgeto7-art&layout=compact&hide_border=true&bg_color=00000000&title_color=06b6d4&text_color=cbd5e1&langs_count=8" alt="Top Languages" height="180" />
-
-</div>
 
 <br />
 
