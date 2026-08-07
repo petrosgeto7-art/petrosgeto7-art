@@ -191,7 +191,7 @@ A C++ banking system application implementing core financial operations — acco
 
 ### 💆 [ethio-massage](https://github.com/petrosgeto7-art/ethio-massage)
 A JavaScript-powered web platform for Ethiopian massage and wellness services with booking functionality and responsive design.
-
+https://ethio-massage.vercel.app/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
