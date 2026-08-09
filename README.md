@@ -51,7 +51,7 @@ fun_fact: I build things that solve real problems — from campus services to fi
 - 🛠️ &nbsp;Working with **TypeScript, Java, C++, JavaScript** across the stack
 - 🧠 &nbsp;Exploring **AI/ML integrations** and **cloud-native architectures**
 - 💬 &nbsp;Ask me about **React, Node.js, Spring Boot, or system design**
-- ⚡ &nbsp;Philosophy: *Write code that works, then make it elegant*
+- ⚡ &nbsp; data structure and algorithim
 
 ---
 
