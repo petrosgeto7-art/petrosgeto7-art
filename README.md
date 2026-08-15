@@ -146,33 +146,8 @@ fun_fact: I build things that solve real problems — from campus services to fi
 
 <!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 
-## &nbsp;📊 GitHub Stats
 
-<br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrosgeto7-art&hide_border=true&background=00000000&stroke=1e293b&ring=0891b2&fire=22d3ee&currStreakNum=e2e8f0&sideNums=06b6d4&currStreakLabel=06b6d4&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" width="700" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrosgeto7-art&bg_color=00000000&color=06b6d4&line=22d3ee&point=e2e8f0&area_color=0891b2&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%" />
-</div>
-
----
-
-<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-## &nbsp;🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=petrosgeto7-art&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
----
-
-<!-- ═══════════════════════════════ PINNED PROJECTS ═══════════════════════════════ -->
 
 ## &nbsp;📌 Pinned Projects
 
