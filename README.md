@@ -1,37 +1,4 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                     PETROS GETO — GitHub Profile README                      ║
-║                     Username: petrosgeto7-art                                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
 
-<!-- ═══════════════════════════════ HEADER WAVE ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:06b6d4&height=220&section=header&text=Petros%20Geto&fontColor=e2e8f0&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
-
-<!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
-
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&width=550&lines=Hey+%F0%9F%91%8B+I'm+Petros+Geto;Building+Clean+%26+Scalable+Software;Full-Stack+Dev+%7C+Software+Engineering+Student+%7C+Builder;Always+shipping%2C+always+learning" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=petrosgeto7-art&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/petrosgeto7-art?tab=followers">
-    <img src="https://img.shields.io/github/followers/petrosgeto7-art?label=Followers&style=flat-square&color=0891b2&labelColor=1e293b" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/petrosgeto7-art?tab=stars">
-    <img src="https://img.shields.io/github/stars/petrosgeto7-art?label=Stars&style=flat-square&color=0891b2&labelColor=1e293b" alt="Stars" />
-  </a>
-
-</div>
-
-<br />
 
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
 
