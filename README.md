@@ -240,12 +240,9 @@ A creative project showcasing modern development practices with clean architectu
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-  <br /><br />
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500" />
 
 </div>
 
 <!-- ═══════════════════════════════ FOOTER WAVE ═══════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:06b6d4&height=120&section=footer" width="100%" />
+
